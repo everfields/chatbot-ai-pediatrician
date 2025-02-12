@@ -14,6 +14,14 @@ An intelligent chatbot system designed to provide preliminary pediatric health a
 - Asynchronous processing capabilities
 - Production-ready data validation
 
+## Workflows Description
+
+**Workflow #1** is ideal for simpler applications where a conversational loop and a final summary report are sufficient. It is straightforward, synchronous, and relies on minimal data structuring.
+
+**Workflow #2** is designed for more complex, production-ready scenarios. Its modular, asynchronous approach coupled with robust data validation using Pydantic makes it highly extensible. It not only manages a comprehensive diagnostic process but also integrates additional features like product recommendations with affiliate links.
+
+**Workflow #3** captures the intent, functionality, and behavior of both original workflows while combining the best parts of each approach into one coherent, asynchronous design.
+
 ## Project Structure
 
 The project contains three implementation approaches:
