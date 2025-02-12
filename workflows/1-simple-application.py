@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 
 # Initialize the OpenAI client and define the LLM model
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-model = "gpt-4o"
+model = "gpt-4o-mini"
 
 
 class PediatricChatbotWorkflow:

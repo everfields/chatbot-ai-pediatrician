@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 # Example:
 # from openai import OpenAI
 # client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-# model = "gpt-4"
+# model = "gpt-4o-mini"
 
 # ------------------------------------------------------------------
 # Simulated asynchronous LLM call
