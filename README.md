@@ -1,4 +1,4 @@
-# AI Pediatrician Chatbot
+# AI-powered pediatrician chatbot
 
 An intelligent chatbot system designed to provide preliminary pediatric health assessments and recommendations. This project implements three different workflow approaches, from simple to production-ready implementations.
 
